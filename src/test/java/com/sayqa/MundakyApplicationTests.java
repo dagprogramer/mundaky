@@ -1,4 +1,4 @@
-package com.sayqa.mundaky;
+package com.sayqa;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
